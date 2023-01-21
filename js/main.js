@@ -14,7 +14,7 @@ renderer.setClearColor( 0xb7c3f3, 1 );
  const start_position = 6.8
  const end_position = -start_position
  const text = document.querySelector(".text")
- const TIME_LIMIT = 10
+ const TIME_LIMIT = 13
  let gameStat = "loading"
  let isLookingBackward = true
 
