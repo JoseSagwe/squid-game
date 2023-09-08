@@ -6,17 +6,7 @@
 
 A simple web-based Squid Game simulation using Three.js.
 
-![Game Preview](screenshot.png)
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
-- [How to Play](#how-to-play)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
