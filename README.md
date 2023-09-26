@@ -1,7 +1,6 @@
 ##SQUID GAME WEB APPLICATION
 ---
 # Squid Game
-
 A simple web-based Squid Game simulation using Three.js.
 
 ![squid](https://github.com/JoseSagwe/squid-game/assets/110198843/1e6442ac-80ac-4f64-8504-ea5fd79e23e3)
@@ -43,7 +42,6 @@ To get started with the Squid Game project, follow these steps:
    ```
 5. Open your web browser and navigate to `http://localhost:3000` to play the game.
 
-   
 ## How to Play
 
 - Use the "Arrow Up" key to make the player character run forward.
