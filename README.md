@@ -6,7 +6,6 @@ A simple web-based Squid Game simulation using Three.js.
 ## Introduction
 
 This project is a web-based simulation of the popular Squid Game, created using Three.js, a JavaScript 3D library. The game features a player character running on a narrow track while being watched by the creepy Squid Game doll. The goal is to reach the end of the track without falling off.
-
 ## Features
 - 3D graphics powered by Three.js.
 - Realistic player movement and physics.
@@ -21,7 +20,6 @@ Before you begin, ensure you have met the following requirements:
 - A modern web browser that supports WebGL.
 
 ## Getting Started
-
 To get started with the Squid Game project, follow these steps:
 
 1. Clone the repository to your local machine:
