@@ -3,9 +3,6 @@
 
 
 # Squid Game
-
-
-
 A simple web-based Squid Game simulation using Three.js.
 
 
