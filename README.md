@@ -34,6 +34,9 @@ To get started with the Squid Game project, follow these steps:
 
 3. Install the required dependencies:
 
+
+
+
    ```bash
    npm install
    ```
