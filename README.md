@@ -4,10 +4,6 @@
 
 A simple web-based Squid Game simulation using Three.js.
 
-
-
-
-
 ![squid](https://github.com/JoseSagwe/squid-game/assets/110198843/1e6442ac-80ac-4f64-8504-ea5fd79e23e3)
 
 
