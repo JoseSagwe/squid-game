@@ -1,6 +1,3 @@
-
-
-
 ##SQUID GAME WEB APPLICATION
 ---
 
